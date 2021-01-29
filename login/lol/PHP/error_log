@@ -1,0 +1,341 @@
+[12-Jul-2019 14:26:02 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:02 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:02 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:07 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:07 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:07 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:15 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:15 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:26:15 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:20 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:20 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:20 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:24 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:24 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:27:24 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 14:41:58 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[12-Jul-2019 15:45:34 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:45:34 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:45:34 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:45:42 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:45:42 America/Mexico_City] PHP Warning:  require(/home/parquefa/public_html/login/admin/PHPticket/autoload.php): failed to open stream: No such file or directory in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:45:42 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/home/parquefa/public_html/login/admin/PHPticket/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 3
+[12-Jul-2019 15:51:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:52:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:53:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:55:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:55:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:56:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:56:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:57:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 15:58:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:47:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:47:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:50:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:50:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:51:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:51:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:56:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:57:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:57:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:57:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:57:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:59:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 16:59:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:00:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:00:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:00:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:00:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:06:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:06:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:09:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:09:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:12:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 43
+[12-Jul-2019 17:12:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 43
+[12-Jul-2019 17:12:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 43
+[12-Jul-2019 17:12:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 43
+[12-Jul-2019 17:15:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:15:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:15:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:15:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:18:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:18:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:19:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:19:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:19:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:20:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:24:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:24:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:24:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[12-Jul-2019 17:51:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 02:29:47 America/Mexico_City] PHP Notice:  Undefined variable: printer in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 57
+[13-Jul-2019 02:29:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function setJustification() on null in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 57
+[13-Jul-2019 02:30:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 02:52:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 02:55:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 12:33:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WindowsPrintConnector' not found in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 12:49:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 59
+[13-Jul-2019 12:51:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 14
+[13-Jul-2019 12:51:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 14
+[13-Jul-2019 13:28:58 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 43
+[13-Jul-2019 13:29:49 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 42
+[13-Jul-2019 14:01:31 America/Mexico_City] PHP Notice:  Undefined index: f.total in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 49
+[14-Jul-2019 11:05:31 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:05:36 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:06:02 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:06:43 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:06:49 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:07:25 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:08:02 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:08:07 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:09:01 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:09:07 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 11:09:40 America/Mexico_City] PHP Notice:  Undefined index: t in /home/parquefa/public_html/login/admin/PHP/imprimirticket.php on line 25
+[14-Jul-2019 12:10:26 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:10:26 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:10:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 59
+[14-Jul-2019 12:10:30 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:10:30 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:10:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 59
+[14-Jul-2019 12:11:08 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:11:08 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 58
+[14-Jul-2019 12:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 59
+[14-Jul-2019 12:17:28 America/Mexico_City] PHP Notice:  Undefined variable: nuevototal in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 69
+[14-Jul-2019 12:17:31 America/Mexico_City] PHP Notice:  Undefined variable: nuevototal in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 69
+[14-Jul-2019 12:17:32 America/Mexico_City] PHP Notice:  Undefined variable: nuevototal in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 69
+[14-Jul-2019 12:20:16 America/Mexico_City] PHP Notice:  Undefined variable: nuevototal in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 69
+[14-Jul-2019 12:20:59 America/Mexico_City] PHP Notice:  Undefined variable: nuevototal in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 65
+[14-Jul-2019 14:25:27 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[14-Jul-2019 16:52:27 America/Mexico_City] PHP Fatal error:  Uncaught Exception: Failed to print. Command "smbclient '//ek.hosting-mexico.net/EPSON TM-T20II Receipt' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found in /home/parquefa/public_html/login/admin/PHP/ticket/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/PHP/ticket/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@Hola mundo\nPa...')
+#1 /home/parquefa/public_html/login/admin/PHP/ticket/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/parquefa/public_html/login/admin/PHP/Hola.php(65): Mike42\Escpos\Printer->close()
+#3 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/ticket/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[19-Jul-2019 06:49:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 92
+[19-Jul-2019 06:50:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 92
+[19-Jul-2019 06:52:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 90
+[19-Jul-2019 06:54:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 90
+[19-Jul-2019 06:54:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 90
+[19-Jul-2019 06:54:58 America/Mexico_City] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 90
+[19-Jul-2019 06:54:58 America/Mexico_City] PHP Notice:  Undefined index: total in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 92
+[19-Jul-2019 06:55:56 America/Mexico_City] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 88
+[19-Jul-2019 06:56:55 America/Mexico_City] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 88
+[19-Jul-2019 07:00:28 America/Mexico_City] PHP Notice:  Undefined variable: nuevfondo in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 95
+[19-Jul-2019 07:01:22 America/Mexico_City] PHP Notice:  Undefined variable: nuevfondo in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 96
+[19-Jul-2019 07:03:09 America/Mexico_City] PHP Notice:  Undefined variable: nuevfondo in /home/parquefa/public_html/login/admin/PHP/agregarofondo.php on line 96
+[19-Jul-2019 07:14:44 America/Mexico_City] PHP Notice:  Undefined variable: row in /home/parquefa/public_html/login/admin/PHP/imprimirticketret.php on line 20
+[19-Jul-2019 07:15:07 America/Mexico_City] PHP Notice:  Undefined variable: ticket in /home/parquefa/public_html/login/admin/PHP/imprimirticketret.php on line 10
+[26-Jul-2019 14:59:36 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[01-Nov-2019 11:48:47 America/Mexico_City] PHP Notice:  Undefined index: descuento in /home/parquefa/public_html/login/admin/PHP/ticket.php on line 89
+[02-Nov-2019 11:20:46 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[02-Jan-2020 23:17:46 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:17:39 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:19:22 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:22:32 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:26:10 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:27:54 America/Mexico_City] PHP Notice:  Undefined variable: apellidom in /home/parquefa/public_html/login/admin/PHP/agregarcliente.php on line 12
+[03-Jan-2020 03:34:32 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[03-Jan-2020 04:11:05 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[03-Jan-2020 04:24:39 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[03-Jan-2020 04:27:26 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[17-Jan-2020 09:40:56 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
+[17-Jan-2020 09:41:12 America/Mexico_City] PHP Notice:  Undefined variable: arreglo in /home/parquefa/public_html/login/admin/PHP/Registros.php on line 16
