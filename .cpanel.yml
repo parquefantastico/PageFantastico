@@ -1,0 +1,22 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/parquefa/public_html/
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R fonts $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R login $DEPLOYPATH
+    - /bin/cp .ftpquota $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
+    - /bin/cp contacto.php $DEPLOYPATH
+    - /bin/cp error_log $DEPLOYPATH
+    - /bin/cp eventos.php $DEPLOYPATH
+    - /bin/cp eventoscont.php $DEPLOYPATH
+    - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
+    - /bin/cp historia.php $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp mail.php $DEPLOYPATH
+    - /bin/cp paquetes.php $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
