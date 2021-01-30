@@ -1,0 +1,122 @@
+[19-Aug-2020 00:33:45 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[19-Aug-2020 00:35:55 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[19-Aug-2020 00:39:35 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[19-Aug-2020 01:02:25 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[20-Aug-2020 14:26:39 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/parquefa/public_html/login/admin/pacific2/conexion.php on line 8
+[20-Aug-2020 14:26:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/parquefa/public_html/login/admin/pacific2/conexion.php:9
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/agregarContactos.php(2): include()
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/conexion.php on line 9
+[20-Aug-2020 14:26:54 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/parquefa/public_html/login/admin/pacific2/conexion.php on line 8
+[20-Aug-2020 14:26:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/parquefa/public_html/login/admin/pacific2/conexion.php:9
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php(3): include()
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/conexion.php on line 9
+[20-Aug-2020 14:27:07 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[20-Aug-2020 15:18:50 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 141
+[20-Aug-2020 16:06:27 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:08:07 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:09:21 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:14:38 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:17:06 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:18:14 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:27:45 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 16:32:59 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 17:04:54 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 17:15:01 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 17:25:18 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[20-Aug-2020 17:32:56 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 17:19:47 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 17:45:42 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 17:45:46 America/Mexico_City] PHP Warning:  mysqli_result::fetch_assoc(): Couldn't fetch mysqli_result in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 24
+[24-Aug-2020 17:45:46 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 41
+[24-Aug-2020 17:45:46 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 42
+[24-Aug-2020 17:45:46 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 43
+[24-Aug-2020 17:46:00 America/Mexico_City] PHP Warning:  mysqli_result::fetch_assoc(): Couldn't fetch mysqli_result in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 24
+[24-Aug-2020 17:46:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 41
+[24-Aug-2020 17:46:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 42
+[24-Aug-2020 17:46:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 43
+[24-Aug-2020 17:48:24 America/Mexico_City] PHP Warning:  mysqli_result::fetch_assoc(): Couldn't fetch mysqli_result in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 24
+[24-Aug-2020 17:48:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 41
+[24-Aug-2020 17:48:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 42
+[24-Aug-2020 17:48:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 43
+[24-Aug-2020 17:48:51 America/Mexico_City] PHP Warning:  mysqli_result::fetch_assoc(): Couldn't fetch mysqli_result in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 24
+[24-Aug-2020 17:48:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 41
+[24-Aug-2020 17:48:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 42
+[24-Aug-2020 17:48:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/parquefa/public_html/login/admin/pacific2/consultarcontactos.php:18) in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 43
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:50:52 America/Mexico_City] PHP Notice:  Undefined index: NOMBREE in /home/parquefa/public_html/login/admin/pacific2/PHPexcel.php on line 31
+[24-Aug-2020 17:57:48 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 17:59:55 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:03:08 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:06:25 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:08:59 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:11:03 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:11:12 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:12:13 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:15:59 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:18:12 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:22:35 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:29:40 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:41:38 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[24-Aug-2020 18:43:12 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 17:54:05 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 18:59:40 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 19:28:19 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 19:33:35 America/Mexico_City] PHP Notice:  Undefined index: id_giro in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 61
+[28-Aug-2020 19:33:35 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 69
+[28-Aug-2020 19:34:16 America/Mexico_City] PHP Notice:  Undefined index: id_giro in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 61
+[28-Aug-2020 19:34:16 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 69
+[28-Aug-2020 19:34:26 America/Mexico_City] PHP Notice:  Undefined index: id_giro in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 61
+[28-Aug-2020 19:34:26 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 69
+[28-Aug-2020 19:41:19 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 19:41:24 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 66
+[28-Aug-2020 19:42:32 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 66
+[28-Aug-2020 19:49:29 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 66
+[28-Aug-2020 19:50:56 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 19:51:03 America/Mexico_City] PHP Notice:  Undefined index: contacto in /home/parquefa/public_html/login/admin/pacific2/modif_contactos.php on line 66
+[28-Aug-2020 20:15:31 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/parquefa/public_html/login/admin/pacific2/index.php on line 312
+[28-Aug-2020 20:15:34 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/parquefa/public_html/login/admin/pacific2/index.php on line 312
+[28-Aug-2020 20:16:20 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 20:16:34 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:16:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php:25
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php(20): Modificarcontacto('Adrianaa', 'Pavi\xC3\xA1n', '9941064145', 'adrippineda3110...', '2020-01-01', 'Coatzacoalcos', '10', 'NO', 'NO', 'Vive en Oaxaca,...', 'Facebook', 'NO', '27')
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:16:47 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:16:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php:25
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php(20): Modificarcontacto('Adrianaa', 'Pavi\xC3\xA1n', '9941064145', 'adrippineda3110...', '2020-01-01', 'Coatzacoalcos', '10', 'NO', 'NO', 'Vive en Oaxaca,...', 'Facebook', 'NO', '27')
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:20:55 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:20:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php:25
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php(20): Modificarcontacto('Adriana ', 'Pavi\xC3\xA1n', '9941064145', 'adrippineda3110...', '2020-01-01', 'Coatzacoalcos', '10', 'NO', 'NO', 'Vive en Oaxaca,...', 'Facebook', 'NO', '27')
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:21:05 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:21:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php:25
+Stack trace:
+#0 /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php(20): Modificarcontacto('Adriana ', 'Pavi\xC3\xA1n', '9941064145', 'adrippineda3110...', '2020-01-01', 'Coatzacoalcos', '10', 'NO', 'NO', 'Vive en Oaxaca,...', 'Facebook', 'NO', '27')
+#1 {main}
+  thrown in /home/parquefa/public_html/login/admin/pacific2/PHPmodifcontactos.php on line 25
+[28-Aug-2020 20:23:34 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 20:40:48 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
+[28-Aug-2020 20:43:00 America/Mexico_City] PHP Notice:  Undefined variable: _SESSION in /home/parquefa/public_html/login/admin/pacific2/ListadeContactos.php on line 147
