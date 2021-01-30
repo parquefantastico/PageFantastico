@@ -50,6 +50,7 @@
 					<div class="col-md-12 col-lg-12 col-sm-12">
 						<div class="section__title text-center">
 							<h2 class="title__line">Paquetes de Eventos Privados Por Contingencia</h2>
+							<button onclick="messenger()">a</button>
 						</div>
 					</div>
 				</div>
@@ -334,6 +335,13 @@
     </div><!-- //Main wrapper -->
 
 <!-- JS Files -->
+
+<script>
+function messenger(){
+	alert("hola");
+window.open("http://m.me/fantasticoCoatza");
+}
+</script>
 <script src="js/vendor/jquery-3.2.1.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>

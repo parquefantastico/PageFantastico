@@ -50,6 +50,17 @@
 					<div class="col-md-12 col-lg-12 col-sm-12">
 						<div class="section__title text-center">
 							<h2 class="title__line">Paquetes de Eventos</h2>
+							<h2>Incluye:</h3>
+							<H4>
+							<ul class="class__time">
+										<li>Mesas y sillas para adultos (Redondas p/10)</li>
+										<li>Mesas y sillas para niños (tablones rectangulares)</li>
+										<li>Tablón para pastel</li>
+										<li>Acceso a todos los juegos</li>
+										<li>Staff de asesoría y apoyo en evento</li>
+	
+									</ul>
+							</H4>
 						</div>
 					</div>
 				</div>
@@ -69,17 +80,10 @@
 								</div>
 								<div class="class__details">
 									<h4><a href="#">
-										<li>Viernes: 4 horas de Servicio</li>
+										<li>Lunes a Viernes: 4 horas de Servicio</li>
 									<li>Sabado y Domingo: 5 horas de Servicio</li>
 										</a></h4>
-									<ul class="class__time">
-										<li>Mesas y sillas para adultos (Redondas p/10)</li>
-										<li>Mesas y sillas para niños (tablones rectangulares)</li>
-										<li>Tablón para pastel</li>
-										<li>Pulseras de seguridad para los niños</li>
-										<li>Acceso a todos los juegos</li>
-										<li>Staff de asesoría y apoyo en evento</li>
-									</ul>
+								
 								
 								</div>
 							</div>
@@ -101,17 +105,10 @@
 								</div>
 								<div class="class__details">
 									<h4><a href="#">
-										<li>Viernes: 4 horas de Servicio</li>
+										<li>Lunes a Viernes: 4 horas de Servicio</li>
 									<li>Sabado y Domingo: 5 horas de Servicio</li>
 										</a></h4>
-									<ul class="class__time">
-									   	<li>Mesas y sillas para adultos (Redondas p/10)</li>
-										<li>Mesas y sillas para niños (tablones rectangulares)</li>
-										<li>Tablón para pastel</li>
-										<li>Pulseras de seguridad para los niños</li>
-										<li>Acceso a todos los juegos</li>
-										<li>Staff de asesoría y apoyo en evento</li>
-									</ul>
+								
 								
 								</div>
 							</div>
@@ -133,18 +130,9 @@
 								</div>
 								<div class="class__details">
 									<h4><a href="#">
-										<li>Viernes: 4 horas de Servicio</li>
-									<li>Sabado y Domingo: 5 horas de Servicio</li>
+									
 										</a></h4>
-									<ul class="class__time">
-										<li>Mesas y sillas para adultos (Redondas p/10)</li>
-										<li>Mesas y sillas para niños (tablones rectangulares)</li>
-										<li>Tablón para pastel</li>
-										<li>Pulseras de seguridad para los niños</li>
-										<li>Acceso a todos los juegos</li>
-										<li>Staff de asesoría y apoyo en evento</li>
-	
-									</ul>
+							
 								
 								</div>
 							</div>
@@ -160,96 +148,7 @@
 				</div>
 			</div>
 		 
-			<section class="junior__gallery__area bg--white section-padding--lg"
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-sm-12 col-md-12">
-						<div class="section__title text-center">
-							<h2 class="title__line">Servicos Extras</h2>
-						</div>
-					</div>
-				</div>
-				<div class="row galler__wrap mt--40">
-				
-					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-						<div class="gallery wow fadeInUp">
-							<div class="gallery__thumb">
-								<a href="#">
-									<img src="images/gallery/gallery-1-event/3.jpg" alt="gallery images">
-								</a>
-							</div>
-							<div class="gallery__hover__inner">
-								<div class="gallery__hover__action">
-									<ul class="gallery__zoom">
-										<li><a href="images/gallery/big-img-even/5.jpeg" data-lightbox="grportimg" data-title="Cafetería"><i class="fa fa-search"></i></a></li>
-									</ul>
-									<h4 class="gallery__title"><a href="#">Mesa decorada</a></h4>
-								</div>
-							</div>
-						</div>	
-					</div>	
-				
-					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-						<div class="gallery wow fadeInUp">
-							<div class="gallery__thumb">
-								<a href="#">
-									<img src="images/gallery/gallery-1-event/1.jpg" alt="gallery images">
-								</a>
-							</div>
-							<div class="gallery__hover__inner">
-								<div class="gallery__hover__action">
-									<ul class="gallery__zoom">
-										<li><a href="images/gallery/big-img-even/1.jpeg" data-lightbox="grportimg" data-title="Juegos inflables"><i class="fa fa-search"></i></a></li>
-	
-									</ul>
-									<h4 class="gallery__title"><a href="#">Pastel decorado con fondant</a></h4>
-								</div>
-							</div>
-						</div>	
-					</div>	
-					
-					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-						<div class="gallery wow fadeInUp">
-							<div class="gallery__thumb">
-								<a href="#">
-									<img src="images/gallery/gallery-1-event/2.jpg" alt="gallery images">
-								</a>
-							</div>
-							<div class="gallery__hover__inner">
-								<div class="gallery__hover__action">
-									<ul class="gallery__zoom">
-										<li><a href="images/gallery/big-img-even/4.jpg" data-lightbox="grportimg" data-title="El demoledor"><i class="fa fa-search"></i></a></li>
-										
-									</ul>
-									<h4 class="gallery__title"><a href="#">Invitaciones</a></h4>
-								</div>
-							</div>
-						</div>	
-					</div>	
-					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-						<div class="gallery wow fadeInUp">
-							<div class="gallery__thumb">
-								<a href="#">
-									<img src="images/gallery/gallery-1/18.jpg" alt="gallery images">
-								</a>
-							</div>
-							<div class="gallery__hover__inner">
-								<div class="gallery__hover__action">
-									<ul class="gallery__zoom">
-										<li><a href="images/gallery/big-img/11.jpeg" data-lightbox="grportimg" data-title="Contactanos"><i class="fa fa-search"></i></a></li>
-										
-									</ul>
-									<h4 class="gallery__title"><a href="#">Muchas más</a></h4>
-								</div>
-							</div>
-						</div>	
-					</div>
-				
-					
-								
-				
-				</div>	
-			</div>
+		
 		</section>
 			
 			
@@ -297,55 +196,8 @@
 
 
 			<!-- .Start Footer Contact Area -->
-			<div class="footer__contact__area bg__cat--2">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="footer__contact__wrapper d-flex flex-wrap justify-content-between">
-								<div class="single__footer__address">
-									<div class="ft__contact__icon">
-										<i class="fa fa-home"></i>
-									</div>
-									<div class="ft__contact__details">
-									    
-										<p> <a href=" https://www.google.com.mx/maps/place/Fantastico/@18.1456382,-94.4300953,17z/data=!3m1!4b1!4m5!3m4!1s0x85e982f0adb7682b:0x2c6de37cc520f9c7!8m2!3d18.1456382!4d-94.4279066">  Av. Ignacio de la Llave #1005, Colonia María de la Piedad.</p>
-										<p>CP 96410, Coatzacoalcos, Veracruz.</p>
-									</div>
-								</div>
-								<div class="single__footer__address">
-									<div class="ft__contact__icon">
-										<i class="fa fa-phone"></i>
-									</div>
-									<div class="ft__contact__details">
-										<p><a href="https://api.whatsapp.com/send?phone=+5219211431803&text=Hola,%20solicito %20mas%20informacion%20sobre%20Fantastico">(COATZA) 9211431803</a></p>
-										
-									</div>
-								</div>
-								<div class="single__footer__address">
-									<div class="ft__contact__icon">
-										<i class="fa fa-envelope"></i>
-									</div>
-									<div class="ft__contact__details">
-										<p><a href="mailto:Parquefantastico@gmail.com">Parquefantastico@gmail.com</a></p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- .End Footer Contact Area -->
-			<div class="copyright  bg--theme">
-				<div class="container">
-					<div class="row align-items-center copyright__wrapper justify-content-center">
-						<div class="col-lg-12 col-sm-12 col-md-12">
-							<div class="coppy__right__inner text-center">
-								<p>Copyright <i class="fa fa-copyright"></i> 2019 <a href="" target="_blank" >Parque Fantástico</a> Todos los derechos reservados.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+		<footer>
+		<?php include 'footer.php' ?>
 		</footer>
 		<!-- //Footer Area -->
 

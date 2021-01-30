@@ -55,9 +55,10 @@
                                         
                                         <li><a href="contacto.php">Contacto</a></li>
                                         
-
+										<li><a href="eventos.php">Eventos</a></li>
+										<li><a href="eventoscont.php">Paquetes por contigencia</a></li>
                                          <!-- <li><a href="paquetes.php">Paquetes</a></li>
-                                     Mobile Menu  <li><a href="eventos.php">Eventos</a></li>--> 
+                                     Mobile Menu  >--> 
                                        <!-- <li><a href="eventoscont.php">Eventos Privados por Contingencia</a></li>
                                         <li><a href="login">Ingresar</a></li>-->
                                     </ul>

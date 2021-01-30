@@ -373,7 +373,7 @@
 								<ul class="event__time">
 									<li><i class="fa fa-home"></i>Domicilio: Av. Camino real a Cholula #4312</li>
 									<li>Colonia Santa Cruz Buenavista</li>
-									<li><i class="fa fa-clock-o"></i>Proximamente...</li>
+									
 									
 								</ul>
 							</div>

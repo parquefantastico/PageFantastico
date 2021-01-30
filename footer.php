@@ -40,7 +40,7 @@
 					<div class="row align-items-center copyright__wrapper justify-content-center">
 						<div class="col-lg-12 col-sm-12 col-md-12">
 							<div class="coppy__right__inner text-center">
-								<p>Copyright <i class="fa fa-copyright"></i> 2019 <a href="" target="_blank" >Parque Fantástico</a> Todos los derechos reservados.</p>
+								<p>Copyright <i class="fa fa-copyright"></i> 2021 <a href="" target="_blank" >Parque Fantástico</a> Todos los derechos reservados.</p>
 							</div>
 						</div>
 					</div>
