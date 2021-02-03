@@ -14,7 +14,7 @@
 								</div>
 								<div class="single__footer__address">
 									<div class="ft__contact__icon">
-										<i class="fa fa-phone"></i>
+										<i class="fa fa-whatsapp"></i>
 									</div>
 									<div class="ft__contact__details">
 										<p><a href="https://api.whatsapp.com/send?phone=+5219211431803&text=Hola,%20solicito %20mas%20informacion%20sobre%20Fantastico">(COATZA) 9211431803</a></p>
@@ -29,6 +29,15 @@
 										<p><a href="mailto:Parquefantastico@gmail.com">Parquefantastico@gmail.com</a></p>
 									</div>
 								</div>
+								<div class="single__footer__address">
+									<div class="ft__contact__icon">
+										<i class="fa fa-facebook"></i>
+									</div>
+									<div class="ft__contact__details">
+										<p><a href="" onclick="messenger()">Contactio via inbox de facebook</a></p>
+									</div>
+								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -45,4 +54,10 @@
 						</div>
 					</div>
 				</div>
+
 			</div>
+			<script>
+function messenger(){
+window.open("http://m.me/fantasticoCoatza");
+}
+</script>
