@@ -59,7 +59,7 @@
 										<li>- 2 operadores para los juegos</li>
 									</ul>
 							</H4>
-							<button onclick="messenger()">a</button>
+							
 						</div>
 					</div>
 				</div>
