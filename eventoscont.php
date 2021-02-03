@@ -100,7 +100,7 @@
 							
 								<div class="class__details">
 									<h4><a href="#">
-									<li>Para reservar: </li>
+									
 									
 									<li>Maximo 25 personas
 									</li>
@@ -124,7 +124,7 @@
 							
 								<div class="class__details">
 									<h4><a href="#">
-									<li>Para reservar: </li>
+								
 									<li>Maximo 50 personas
 									</li>
 									<li>4 o 5 Horas de evento</li>
@@ -158,7 +158,7 @@
 <td>*La cocina no estará habilitada para su uso.</td>
 </tr>
 <tr>
-<td>El alfitrion ingresa sus alimnetos y bebidas <b>(Prohibdo ingresar bebidas alcholicas chicles
+<td>El alfitrion ingresa sus alimnetos y bebidas <b>(Prohibido ingresar bebidas alcholicas chicles
 y confetti)</b> </td>
 </tr>
 </tbody>

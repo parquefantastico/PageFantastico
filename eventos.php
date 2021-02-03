@@ -55,8 +55,8 @@
 							<ul class="class__time">
 										<li>Mesas y sillas para adultos (Redondas p/10)</li>
 										<li>Mesas y sillas para niños (tablones rectangulares)</li>
-										<li>Tablón para pastel</li>
-										<li>Acceso a todos los juegos</li>
+										<li>Tablón para pastel</li> 
+										<li>Acceso a todos los juegos (De acuerdo a edades) </li>
 										<li>Staff de asesoría y apoyo en evento</li>
 	
 									</ul>
