@@ -158,7 +158,7 @@
 <td>*La cocina no estará habilitada para su uso.</td>
 </tr>
 <tr>
-<td>El alfitrion ingresa sus alimnetos y bebidas <b>(Prohibido ingresar bebidas alcholicas chicles
+<td>El anfitrion ingresa sus alimentos y bebidas <b>(Prohibido ingresar bebidas alcohólicas chicles
 y confetti)</b> </td>
 </tr>
 </tbody>
